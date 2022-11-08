@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-card/static/css/main.252c8583.css",
+    "main.js": "/digital-card/static/js/main.04ae3fe9.js",
+    "static/media/Jhumel.jpg": "/digital-card/static/media/Jhumel.d090720bb9687080fe42.jpg",
+    "index.html": "/digital-card/index.html",
+    "main.252c8583.css.map": "/digital-card/static/css/main.252c8583.css.map",
+    "main.04ae3fe9.js.map": "/digital-card/static/js/main.04ae3fe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.252c8583.css",
+    "static/js/main.04ae3fe9.js"
+  ]
+}
